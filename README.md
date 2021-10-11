@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi
 我是王超，目前就读于淄博职业学院，预计2022年毕业。
-我会java，Python，jsp，我喜欢把代码做到完美。
+我会html，css，JavaScript，vue，微信小程序，我喜欢把代码做到完美。
 我喜欢不断的挑战自我，希望自己变得更完美。
 我更喜欢交朋友，因为我很幽默。
 如果你来临沂玩，可以用e-mail给我发邮件
